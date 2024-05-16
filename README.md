@@ -1,1 +1,1 @@
-# Code for GPT4TS-adapter
+# Code for ExplicitAdapters4TS
